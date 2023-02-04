@@ -1,4 +1,4 @@
-# Museum-Management
+# Tour-Management
 ![image](https://user-images.githubusercontent.com/93089580/216780481-0b9a0495-c417-47b1-bc04-35258737d5a6.png)
 
 
